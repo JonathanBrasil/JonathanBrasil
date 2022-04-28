@@ -12,7 +12,7 @@
 
 <br>
 <br>
-<div align="right"> 
+<div align="center"> 
  CONTATOS:
  
   <a  href="https://instagram.com/artp0c" target="_blank"><img align="center" img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -22,7 +22,7 @@
 </div>
 <br>
 
-<div align="right">
+<div align="center">
   <a href="https://github.com/JonathanBrasil">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jonathanbrasil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanbrasil&layout=compact&langs_count=7&theme=dracula"/>
