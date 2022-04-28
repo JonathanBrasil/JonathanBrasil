@@ -15,7 +15,7 @@
 <br>
 <br>
 <br>
-<div align="center"> 
+<div align="left"> 
  CONTATOS:
  
   <a  href="https://instagram.com/artp0c" target="_blank"><img align="center" img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
