@@ -1,6 +1,6 @@
 # 🦇 Olá 
 
-- 👋 Meu nome é Jonathan ^.^ <img align="right" height="300" style="border-radius:80px;" src="https://i.ibb.co/4MH2F6Y/Meu-Avatar-GIF.gif">
+- 👋 Meu nome é Jonathan ^.^ <img align="right" height="300" style="border-radius:150px;" src="https://i.ibb.co/4MH2F6Y/Meu-Avatar-GIF.gif">
 
 - ☕ Estudando para ser um Desenvolvedor jr. FullStack...
  
