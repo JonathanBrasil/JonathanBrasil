@@ -1,6 +1,6 @@
 # 🦇 Olá 
 
-- 👋 Meu nome é Jonathan ^.^ <img align="right" height="200" style="border-radius:80px;" src="EDITAR">
+- 👋 Meu nome é Jonathan ^.^ <img align="right" height="300" style="border-radius:80px;" src="https://i.ibb.co/4MH2F6Y/Meu-Avatar-GIF.gif">
 
 - ☕ Estudando para ser um Desenvolvedor jr. FullStack...
  
@@ -12,7 +12,7 @@
 
 <br>
 <br>
-<div align="center"> 
+<div align="right"> 
  CONTATOS:
  
   <a  href="https://instagram.com/artp0c" target="_blank"><img align="center" img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -22,7 +22,7 @@
 </div>
 <br>
 
-<div align="center">
+<div align="right">
   <a href="https://github.com/JonathanBrasil">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jonathanbrasil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanbrasil&layout=compact&langs_count=7&theme=dracula"/>
