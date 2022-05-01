@@ -1,12 +1,16 @@
-# 🦇 Olá 
+#  Olá  🦇🦇🦇
 
-- 👋 Meu nome é Jonathan ^.^ <img align="right" height="300" style="border-radius:150px;" src="https://i.ibb.co/4MH2F6Y/Meu-Avatar-GIF.gif">
+- 🔸 Meu nome é Jonathan  <img align="right" height="300" style="border-radius:150px;" src="https://i.ibb.co/4MH2F6Y/Meu-Avatar-GIF.gif">
 
-- ☕ Estudando para ser um Desenvolvedor jr. FullStack...
+- 🔹 Estudando para ser um Desenvolvedor web FullStack.
+
+- 🔸Linguagem Java 
+
+- 🔹Spring Tool Suite | MySQL | React | JavaScript | CSS | HTML
  
-- 🎮 Tenho interesse em Jogos, animes, artes.
+- 🔸 Tenho interesse em Jogos, Animes, Desenhos e artes.
  
-- 🚻 Meus pronomes: ele || ela
+- 🔹 Meus pronomes: ele/ela he/she
 
 
 
