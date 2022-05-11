@@ -6,7 +6,7 @@
 
 - 🔸Linguagem Java 
 
-- 🔹Spring Tool Suite | MySQL | React | JavaScript | CSS | HTML
+- 🔹Spring Boot | MySQL | React | JavaScript | CSS | HTML
  
 - 🔸 Tenho interesse em Jogos, Animes, Desenhos e artes.
  
