@@ -10,7 +10,7 @@
  
 - 🔸 Tenho interesse em Jogos, Animes, Desenhos e artes.
  
-- 🔹 Meus pronomes: ele/ela he/she
+- 🔹 Aluno FATEC - Informática para negócios
 
 
 
