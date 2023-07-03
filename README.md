@@ -2,15 +2,16 @@
 
 - 🔸 Meu nome é Jonathan  <img align="right" height="300" style="border-radius:150px;" src="https://i.ibb.co/4MH2F6Y/Meu-Avatar-GIF.gif">
 
-- 🔹 Estudando para ser um Desenvolvedor web FullStack.
-
-- 🔸Linguagem Java 
-
-- 🔹Spring Boot | MySQL | React | JavaScript | CSS | HTML
- 
-- 🔸 Tenho interesse em Jogos, Animes, Desenhos e artes.
- 
 - 🔹 Aluno FATEC - Informática para negócios
+
+- 🔸 Estudando para ser um Desenvolvedor web FullStack & Designer de UX
+
+- 🔹Linguagem Java | C#
+
+- 🔸Spring Boot | MySQL | React | JavaScript | CSS | HTML
+ 
+- 🔹 Tenho interesse em Jogos, Animes, Ilustrações e artes.
+ 
 
 
 
