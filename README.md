@@ -1,4 +1,4 @@
-#  Olá  🦇🦇🦇
+#  Olá, Seja bem vindo!  🦇🦇🦇
 
 - 🔸 Meu nome é Jonathan  <img align="right" height="300" style="border-radius:150px;" src="https://i.ibb.co/4MH2F6Y/Meu-Avatar-GIF.gif">
 
@@ -6,11 +6,11 @@
 
 - 🔸 Estudando para ser um Desenvolvedor web FullStack & Designer de UX
 
-- 🔹Linguagem Java | C#
+- 🔹Linguagens: JavaScript | Java | C# | C++
 
-- 🔸Spring Boot | MySQL | React | JavaScript | CSS | HTML
+- 🔸Tecnologias: Spring-Boot | MySQL | React | CSS | HTML | Photoshop | AutoCad | SketchUp | Revit | 
  
-- 🔹 Tenho interesse em Jogos, Animes, Ilustrações e artes.
+- 🔹 Tenho interesse em Jogos, Animes, Ilustrações, artes e Tecnologia no geral.
  
 
 
