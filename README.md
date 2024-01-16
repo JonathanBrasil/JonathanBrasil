@@ -8,7 +8,7 @@
 
 - 🔹Linguagens: JavaScript | Java | C# | C++
 
-- 🔸Tecnologias: Spring-Boot | MySQL | React | CSS | HTML | Photoshop | AutoCad | SketchUp | Revit | 
+- 🔸Tecnologias: Spring-Boot | MySQL | React | CSS | HTML | Photoshop | AutoCad | SketchUp 
  
 - 🔹 Tenho interesse em Jogos, Animes, Ilustrações, artes e Tecnologia no geral.
  
