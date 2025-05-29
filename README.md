@@ -1,6 +1,6 @@
 #  Olá, Seja bem vindo!  🦇🦇🦇
 
-- 🔸 Meu nome é Jonathan  <img align="right" height="300" style="border-radius:150px;" src="https://i.ibb.co/4MH2F6Y/Meu-Avatar-GIF.gif">
+- 🔸 Meu nome é Jonathan  <img align="right" height="300" style="border-radius:150px;" src="https://static.vecteezy.com/system/resources/thumbnails/019/153/003/small_2x/3d-minimal-programming-icon-coding-screen-web-development-concept-laptop-with-a-coding-screen-and-a-coding-icon-3d-illustration-png.png">
 
 - 🔹 Aluno FATEC - Informática para negócios
 
